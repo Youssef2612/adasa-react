@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "title": "The Art of Seeing: Finding Beauty in Everyday Moments",
+    "category": "Photography",
+    "author": "Olivia Rhye",
+    "date": "June 18, 2025",
+    "readTime": "8 min read",
+    "image": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=1200",
+    "excerpt": "Photography begins when we slow down and learn to notice the extraordinary details hidden in ordinary life.",
+    "content": "Great photography is not always about travelling to extraordinary places. It is about learning to see the light, shapes, colours and stories already around you. Start by observing the direction of light, simplify your frame, and give your subject room to breathe."
+  },
+  {
+    "id": "2",
+    "title": "Golden Hour: A Beginner’s Guide to Natural Light",
+    "category": "Lighting",
+    "author": "James Wilson",
+    "date": "June 12, 2025",
+    "readTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200",
+    "excerpt": "Learn how to use the warm, soft light just after sunrise and before sunset to create memorable photographs.",
+    "content": "Golden hour offers warm colour, gentle shadows and beautiful directionality. Expose for highlights, place the sun to the side or behind your subject, and use a reflector when faces become too dark."
+  },
+  {
+    "id": "3",
+    "title": "Portrait Photography: Capturing Real Emotion",
+    "category": "Portraits",
+    "author": "Mia Chen",
+    "date": "June 08, 2025",
+    "readTime": "7 min read",
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=1200",
+    "excerpt": "A thoughtful portrait is more than a sharp image. It is a connection between the photographer and the subject.",
+    "content": "Build trust before lifting the camera. Give simple direction, talk to your subject, and look for genuine expressions between posed moments. A longer focal length and a clean background can help keep attention on the person."
+  },
+  {
+    "id": "4",
+    "title": "Landscape Photography and the Power of Composition",
+    "category": "Landscape",
+    "author": "Noah Carter",
+    "date": "May 29, 2025",
+    "readTime": "9 min read",
+    "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1200",
+    "excerpt": "Create stronger landscape images by using foreground interest, leading lines and balanced compositions.",
+    "content": "A landscape image becomes more engaging when it gives the viewer a path through the frame. Look for foreground elements, use leading lines, and wait for changing weather or light to add atmosphere."
+  },
+  {
+    "id": "5",
+    "title": "Street Photography: Stories Hidden in the City",
+    "category": "Street",
+    "author": "Ethan Brooks",
+    "date": "May 21, 2025",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=1200",
+    "excerpt": "Explore timing, patience and visual storytelling while photographing everyday life on busy streets.",
+    "content": "Street photography rewards patience. Choose a location with interesting light, observe how people move through it, and anticipate moments rather than chasing them. Be respectful and aware of local privacy rules."
+  },
+  {
+    "id": "6",
+    "title": "A Simple Camera Settings Guide for Beginners",
+    "category": "Tutorials",
+    "author": "Sophia Lee",
+    "date": "May 14, 2025",
+    "readTime": "10 min read",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=1200",
+    "excerpt": "Understand aperture, shutter speed and ISO, and learn how the exposure triangle works together.",
+    "content": "Aperture controls depth of field, shutter speed controls motion, and ISO controls sensor sensitivity. Change one setting at a time and watch how the other two affect exposure. Practice in manual mode in a familiar environment."
+  },
+  {
+    "id": "7",
+    "title": "Minimalist Photography: Less, but Better",
+    "category": "Photography",
+    "author": "Olivia Rhye",
+    "date": "May 08, 2025",
+    "readTime": "4 min read",
+    "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?w=1200",
+    "excerpt": "Use negative space, simple shapes and careful framing to make a quiet but powerful image.",
+    "content": "Minimalism asks you to remove distractions. Find one clear subject, simplify the background, and use negative space intentionally. Strong light and geometry can make a simple frame memorable."
+  },
+  {
+    "id": "8",
+    "title": "Choosing the Right Lens for Your Photography",
+    "category": "Tutorials",
+    "author": "James Wilson",
+    "date": "April 30, 2025",
+    "readTime": "7 min read",
+    "image": "https://images.unsplash.com/photo-1510127034890-1ee5d9a6a3a5?w=1200",
+    "excerpt": "A practical overview of focal lengths and how different lenses shape the way your photographs feel.",
+    "content": "Wide lenses include more of the environment, normal lenses offer a natural perspective, and telephoto lenses help isolate distant subjects. Choose a lens based on the story and working distance, not only its specifications."
+  },
+  {
+    "id": "9",
+    "title": "The Quiet Beauty of Black and White Photography",
+    "category": "Photography",
+    "author": "Mia Chen",
+    "date": "April 22, 2025",
+    "readTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1200",
+    "excerpt": "Discover contrast, texture and tonal range through timeless monochrome photography.",
+    "content": "Black and white removes colour and places greater emphasis on light, contrast, texture and shape. Look for scenes with clear tonal separation and imagine how colours translate into shades of grey."
+  }
+]
